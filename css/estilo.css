@@ -1,0 +1,148 @@
+#Fecha{
+	margin: 900px;
+	color: blue;
+}
+
+
+#Principal{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid #09b1b3;
+	margin: auto;
+}
+
+header{
+	width: 900px;
+	height: 100px;
+	border: 0px solid #09b1b3;
+
+}
+
+#Logo{
+	width: 400px;
+	height: 99px;
+	border: 0px solid #09b1b3;
+	float: left;
+
+}
+
+#Logo h1{
+	color: red;
+	height: 15px;
+	margin: 35px;
+
+}
+
+.Menú{
+	width: 470px;
+	height: 40px;
+	border: 1px solid blue;
+	float: right;
+	margin-top: 30px;
+	background: #1ea8d4;
+}
+
+
+.Menú ul{
+}
+
+.Menú ul li{
+	list-style: none; 
+	float: right;
+
+}
+
+.Menú ul li a{
+	text-decoration: none;
+	padding: 10px 15px;
+	border: 0px solid #ccc;
+	color: #fff;
+
+}
+
+.Menú ul li a:hover{
+	background: #37c727a6;
+	color: #006699;
+	transition: background 1s, color 1s;
+}
+
+#hhtt{
+	margin-top: 2px;
+	width: 900px;
+	height: 250px;
+
+
+}
+
+#Categorias{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid;
+	margin-top: 15px;
+}
+
+.uno{
+	width: 280px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;
+	float: left;
+	padding: 5px;
+	text-align: center;
+}
+
+.dos{
+	margin-left: 12px; 
+	margin right: 12px;
+}
+
+.Leer-más{
+	border: 1px solid #006699;
+	text-decoration: none;
+	color: red;
+	padding: 10px 20px 10px 20px;
+	margin: 85px;	
+}
+
+.Leer-más:hover{
+	background: #006699;
+	color: white;
+	transition: background 1s, color 1s;
+}
+
+#Info{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid #c0c0c0;
+	margin-top: 10px;
+}
+
+#Izq{
+	width: 585px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;
+	float: left;
+	padding: 5px;
+}
+
+#Der{
+	width: 290px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;
+	float: right;
+
+}
+
+#Der h2{
+	text-align: center;
+}
+
+footer{
+	width: 900px;
+	height: 100px;
+	text-align: center;
+}
+
+#footer p{
+	width: 500px;
+}
+
